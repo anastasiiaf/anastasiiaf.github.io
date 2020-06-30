@@ -44,6 +44,10 @@ a:hover {
   text-decoration: none;
 }
 
+.form-size {
+  width: 350px;
+  margin: 0 auto;
+}
 /* Underline From Left 
 https://github.com/IanLunn/Hover
 */
