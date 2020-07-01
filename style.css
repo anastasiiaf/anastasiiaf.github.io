@@ -48,6 +48,11 @@ a:hover {
   width: 350px;
   margin: 0 auto;
 }
+
+.it-skills {
+  width: 400px;
+  height: 300px;
+}
 /* Underline From Left 
 https://github.com/IanLunn/Hover
 */
